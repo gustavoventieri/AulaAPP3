@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AulaAPP3</string>
+    <string name="edtNome">Digite o seu Nome</string>
+    <string name="btnCadastrar">Cadastratr</string>
+
+    <string name="edtEndereço">Digite o seu Endereço</string>
+    <string name="edtBairro">digite o seu Bairro</string>
+    <string name="edtCep">digite o seu Cep</string>
+    <string name="edtCidade">digite o sua Cidade</string>
+    <string name="edtEstado">digite o seu Estado</string>
+
+
+</resources>
